@@ -53,7 +53,7 @@ Data/
 
 ## Data
 
-- The data used to train the model can be accessed [here](https://drive.google.com/file/d/15m8Y1REw0pbPHfnfSH7mAMXToXcuFM6l/view?usp=sharing). The data has been collected in the Intaka Island reserve with the purpose and consists of bird sounds and ambient noises that occur in their natural environment. Intaka Island is a 16-hectare wetland reserve located in the heart of Century City, 7km away from central Cape Town, South Africa. The following picture shows how we covered the Intaka Island.
+- The data used to train the model can be accessed [here](https://drive.google.com/file/d/15m8Y1REw0pbPHfnfSH7mAMXToXcuFM6l/view?usp=sharing). The data has been collected in the Intaka Island reserve and consists of bird sounds and ambient noises that occur in their natural environment. Intaka Island is a 16-hectare wetland reserve located in the heart of Century City, 7km away from central Cape Town, South Africa. The following picture shows how we covered the Intaka Island.
 
 <div style="text-align: center;">
     <img src="https://drive.google.com/uc?export=download&id=1sBs7vXmzdfXQrisN1hj5VI7K0ZDxKJX-" alt="Alt text"/>
